@@ -1,0 +1,5 @@
+print("Imię: Henryk")
+print("Wiek: 37")
+print("Ulubiony kolor: Zielony")
+print("2026 -", 1989, "=", 2026 - 1989)
+print("Długość mojego imienia:", len("Kacper"))
