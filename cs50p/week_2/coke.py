@@ -13,7 +13,6 @@ def main():
 
 #tutaj trafia string dlatego porównuejsz do str
 def check_coin(coins):
-  
         #if coins in [5, 10, 25]:
         if coins == "5" or coins == "10" or coins == "25":
             return coins
