@@ -29,3 +29,10 @@ def meaw(n):
         print("Meaw")
 
 main()    
+
+
+# tekst = "kot"
+
+# for litera in tekst:
+#     print(litera)
+
