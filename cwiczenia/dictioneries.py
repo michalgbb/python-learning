@@ -19,5 +19,5 @@ for n in spacecraft.keys():
     print(f"{n} key<--->value {spacecraft[n]}")
 
 
-for n in spacecraft.keys():
-    print(f"{n} key<--->value {spacecraft[n]}")    
+for n in spacecraft:
+    print(n)    
