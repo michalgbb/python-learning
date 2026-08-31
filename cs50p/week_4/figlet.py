@@ -21,11 +21,11 @@ def main():
     text = input("Input: ")
     print(figlet.renderText(text))
    
-# wyciagnac na koncie powtarzajacy sie kod
+# # wyciagnac na koncie powtarzajacy sie kod
     
-    print(sys.argv[0])
-    print(sys.argv[1])
-    print(sys.argv[2])
-    print(fonts[1])
+#     print(sys.argv[0])
+#     print(sys.argv[1])
+#     print(sys.argv[2])
+#     print(fonts[1])
 
 main()
